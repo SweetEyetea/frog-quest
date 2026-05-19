@@ -1,0 +1,10 @@
+[gd_scene format=3 uid="uid://cstlvtv8aum8k"]
+
+[ext_resource type="Texture2D" uid="uid://cbyf58n2oa2uf" path="res://Khione_Gun.png" id="1_mehiu"]
+[ext_resource type="Script" uid="uid://d1vjx8r3ef0xx" path="res://sprite_2d.gd" id="2_lt4yx"]
+
+[node name="Sprite2D" type="Sprite2D" unique_id=1911423453]
+position = Vector2(532, 284)
+scale = Vector2(0.1, 0.1)
+texture = ExtResource("1_mehiu")
+script = ExtResource("2_lt4yx")
