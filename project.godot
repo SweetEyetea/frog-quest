@@ -11,6 +11,7 @@ config_version=5
 [application]
 
 config/name="FrogQuest"
+run/main_scene="uid://go3l4xgy7him"
 config/features=PackedStringArray("4.6", "Forward Plus")
 config/icon="res://icon.svg"
 
@@ -18,6 +19,10 @@ config/icon="res://icon.svg"
 
 version_control/plugin_name="GitPlugin"
 version_control/autoload_on_startup=true
+
+[editor_plugins]
+
+enabled=PackedStringArray("res://addons/texture_origin_editor/plugin.cfg")
 
 [physics]
 
