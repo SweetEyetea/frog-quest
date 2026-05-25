@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bm4no8mangmtw"
-path="res://.godot/imported/HangingGreens.png-7999ff41e1fe32f28b680d31eab080ef.ctex"
+path="res://.godot/imported/HangingGreens.png-3ebb77693453731e752e32d31918e2c4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://HangingGreens.png"
-dest_files=["res://.godot/imported/HangingGreens.png-7999ff41e1fe32f28b680d31eab080ef.ctex"]
+source_file="res://Art/HangingGreens.png"
+dest_files=["res://.godot/imported/HangingGreens.png-3ebb77693453731e752e32d31918e2c4.ctex"]
 
 [params]
 
